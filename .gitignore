@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.tmp
+*.log
+.DS_Store
+.env
+.venv/
+venv/
+.env*
+.ipynb_checkpoints/
+
+# Data and outputs
+data/
+outputs/
+models/
+*.h5
+*.keras
+*.png
+*.jpg
+*.jpeg
