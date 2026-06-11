@@ -42,10 +42,5 @@ Optional CLI flags:
 - `--outlier-threshold` — z-score limit for outlier capping (default `3.0`)
 - `--noise-factor` — synthetic augmentation noise factor (default `0.01`)
 
-## Notes
-- The project is now modular and maintainable.
-- `Model.py` is no longer required and can be removed.
-- Keep data and outputs outside version control.
-
 ## License
 MIT License.
